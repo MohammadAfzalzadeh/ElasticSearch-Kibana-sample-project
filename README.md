@@ -1,5 +1,9 @@
 # ElasticSearch & Kibana sample project
 
+project detail 
+
+[FUM_IR_1402-02_HW4](./FUM_IR_1402-02_HW4.pdf)
+
 ## Section Zero: Connecting to Elastic Search
 
 The `elastic_connection.py` file in this project is used to connect to the Elasticsearch service. This file includes connection settings for Elasticsearch and a function to execute Elasticsearch queries. Here are brief explanations of each part of this file:
