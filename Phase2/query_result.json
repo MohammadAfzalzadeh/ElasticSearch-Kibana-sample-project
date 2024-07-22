@@ -1,0 +1,326 @@
+[
+    {
+        "Title": "Ethereum Powered E-Tendering System",
+        "Pages": null,
+        "Cites in Papers": 0,
+        "Cites in Patents": 0,
+        "Full Text Views": 0,
+        "Publisher": "IEEE",
+        "DOI": "10.1109/IC3IoT60841.2024.10550251",
+        "Date of Publication": "17-18 April 2024",
+        "abstract": "The use of information technology to trade information, deliver services, and other things is becoming more and more commonplace in the era of technological advancement. Tendering is one such area where the public and private sectors collaborate. E-tendering is a procurement technique that uses the internet and digital technologies to automate and simplify the whole bidding or tendering process. This makes it easier for the bidders to browse through all of the open tenders and select one to proceed with. But it frequently results in a number of challenges that both bids and bidders must deal with. The system is inefficient because of scale and transparency problems brought on by its centralized architecture. Additionally, the system frequently shares information about tenders with other outside organizations, which compromises the confidentiality and integrity of the tenders. To manage these issues, a decentralized method is used in the deployment of the Blockchain e-tendering system. Consequently, the procurement procedures will have the opportunity to leverage the potential of blockchain technology to enhance security and transparency. This research aims to provide an electronic tendering system that is transparent, liquidate, and safe. It will manage tender allocation and use smart contracts to automate the underlying processes with the least amount of human interaction possible.",
+        "Published in": [
+            {
+                "name": "2024 International Conference on Communication, Computing and Internet of Things (IC3IoT)",
+                "link": "https://ieeexplore.ieee.org/xpl/conhome/10550185/proceeding"
+            }
+        ],
+        "Authors": [
+            {
+                "name": "K Ananthajothi",
+                "from": "Dept. of computer science and engineering, Rajalakshmi Engineering College, Chennai, India"
+            },
+            {
+                "name": "P K Jaisuriya",
+                "from": "Dept. of computer science and engineering, Rajalakshmi Engineering College, Chennai, India"
+            },
+            {
+                "name": "S Haribala",
+                "from": "Dept. of computer science and engineering, Rajalakshmi Engineering College, Chennai, India"
+            }
+        ],
+        "IEEE keywords": [
+            "Procurement",
+            "Electric potential",
+            "Smart contracts",
+            "Organizations",
+            "Blockchains",
+            "Telecommunication computing",
+            "Security"
+        ],
+        "Author Keywords": [
+            "Ethereum",
+            "smart contracts",
+            "blockchain",
+            "digital signatures",
+            "tendering"
+        ]
+    },
+    {
+        "Title": "Scalable Privacy-Preserving Query Processing over Ethereum Blockchain",
+        "Pages": null,
+        "Cites in Papers": 20,
+        "Cites in Patents": 0,
+        "Full Text Views": 1700,
+        "Publisher": "IEEE",
+        "DOI": "10.1109/Blockchain.2019.00061",
+        "Date of Publication": "14-17 July 2019",
+        "abstract": "Blockchain technologies have recently received considerable attention, partly due to the success of cryptocurrency applications such as Bitcoin and Ethereum. As the adoption of blockchain technologies by various sectors increases, there is a demand for tools that enable regulatory enforcement, which include monitoring, examining and ensuring compliance of the data stored by the blockchain systems, all in a privacy preserving way. Current blockchain solutions store transactions in append-only and immutable fashion without any indexing, which contributes to limited and inefficient queries. Additionally, there is no support for privacy-preserving query processing. To address these issues, in this paper, we propose a system that can provide auditors, enforcing regulatory compliance, with efficient, scalable and richer blockchain query processing over Hadoop and synchronized Ethereum clients. The system additionally ensures auditors' privacy by utilizing cryptography techniques over semi-trusted servers to protect the auditors' identities, queries and their results.",
+        "Published in": [
+            {
+                "name": "2019 IEEE International Conference on Blockchain (Blockchain)",
+                "link": "https://ieeexplore.ieee.org/xpl/conhome/8938397/proceeding"
+            }
+        ],
+        "Authors": [
+            {
+                "name": "Shlomi Linoy",
+                "from": "University of New Brunswick, Fredericton, Canada"
+            },
+            {
+                "name": "Hassan Mahdikhani",
+                "from": "University of New Brunswick, Fredericton, Canada"
+            },
+            {
+                "name": "Suprio Ray",
+                "from": "University of New Brunswick, Fredericton, Canada"
+            },
+            {
+                "name": "Rongxing Lu",
+                "from": "University of New Brunswick, Fredericton, Canada"
+            },
+            {
+                "name": "Natalia Stakhanova",
+                "from": "University of New Brunswick, Fredericton, Canada"
+            },
+            {
+                "name": "Ali Ghorbani",
+                "from": "University of New Brunswick, Fredericton, Canada"
+            }
+        ],
+        "IEEE keywords": [
+            "Servers",
+            "Blockchain",
+            "Cryptography",
+            "Task analysis",
+            "Indexes",
+            "Query processing",
+            "Privacy"
+        ],
+        "Author Keywords": [
+            "blockchain, privacy, bigdata, database"
+        ]
+    },
+    {
+        "Title": "ETH Relay: A Cost-efficient Relay for Ethereum-based Blockchains",
+        "Pages": null,
+        "Cites in Papers": 52,
+        "Cites in Patents": 0,
+        "Full Text Views": 5627,
+        "Publisher": "IEEE",
+        "DOI": "10.1109/Blockchain50366.2020.00032",
+        "Date of Publication": "02-06 November 2020",
+        "abstract": "Current blockchain relay schemes require the immediate validation of each relayed block header by the destination blockchain. This leads to high operating cost when deploying these relays between Ethereum-based blockchains where validating block headers on-chain is computationally expensive.To overcome these limitations, we introduce a novel relay scheme that employs a validation-on-demand pattern combined with economic incentives to reduce the cost of operating a relay between Ethereum-based blockchains by up to 92%. With this relay scheme, decentralized interoperability between blockchains like Ethereum and Ethereum Classic becomes feasible.",
+        "Published in": [
+            {
+                "name": "2020 IEEE International Conference on Blockchain (Blockchain)",
+                "link": "https://ieeexplore.ieee.org/xpl/conhome/9284404/proceeding"
+            }
+        ],
+        "Authors": [
+            {
+                "name": "Philipp Frauenthaler",
+                "from": "Christian Doppler Laboratory for Blockchain Technologies for the Internet of Things Distributed Systems Group, TU, Wien, Vienna, Austria"
+            },
+            {
+                "name": "Marten Sigwart",
+                "from": "Christian Doppler Laboratory for Blockchain Technologies for the Internet of Things Distributed Systems Group, TU, Wien, Vienna, Austria"
+            },
+            {
+                "name": "Christof Spanring",
+                "from": "Pantos GmbH, Vienna, Austria"
+            },
+            {
+                "name": "Michael Sober",
+                "from": "Christian Doppler Laboratory for Blockchain Technologies for the Internet of Things Distributed Systems Group, TU, Wien, Vienna, Austria"
+            },
+            {
+                "name": "Stefan Schulte",
+                "from": "Christian Doppler Laboratory for Blockchain Technologies for the Internet of Things Distributed Systems Group, TU, Wien, Vienna, Austria"
+            }
+        ],
+        "IEEE keywords": [
+            "Economics",
+            "Conferences",
+            "Blockchain",
+            "Reliability",
+            "Relays",
+            "Optimization",
+            "Interoperability"
+        ],
+        "Author Keywords": [
+            "blockchain interoperability",
+            "cross-blockchain communication",
+            "blockchain relay",
+            "simplified payment verification"
+        ]
+    },
+    {
+        "Title": "When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs",
+        "Pages": null,
+        "Cites in Papers": 0,
+        "Cites in Patents": 0,
+        "Full Text Views": 0,
+        "Publisher": "IEEE",
+        "DOI": "10.1145/3597503.3639131",
+        "Date of Publication": "14-20 April 2024",
+        "abstract": "To empower smart contracts with the promising capabilities of cryptography, Ethereum officially introduced a set of cryptographic APIs that facilitate basic cryptographic operations within smart contracts, such as elliptic curve operations. However, since developers are not necessarily cryptography experts, requiring them to directly interact with these basic APIs has caused real-world security issues and potential usability challenges. To guide future research and solutions to these challenges, we conduct the first empirical study on Ethereum cryptographic practices. Through the analysis of 91,484,856 Ethereum transactions, 500 crypto-related contracts, and 483 StackExchange posts, we provide the first in-depth look at cryptographic tasks developers need to accomplish and identify five categories of obstacles they encounter. Furthermore, we conduct an online survey with 78 smart contract practitioners to explore their perspectives on these obstacles and elicit the underlying reasons. We find that more than half of practitioners face more challenges in cryptographic tasks compared to general business logic in smart contracts. Their feedback highlights the gap between low-level cryptographic APIs and high-level tasks they need to accomplish, emphasizing the need for improved cryptographic APIs, task-based templates, and effective assistance tools. Based on these findings, we provide practical implications for further improvements and outline future research directions.",
+        "Published in": [
+            {
+                "name": "2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)",
+                "link": "https://ieeexplore.ieee.org/xpl/conhome/10548016/proceeding"
+            }
+        ],
+        "Authors": [
+            {
+                "name": "Jiashuo Zhang",
+                "from": "School of Computer Science, Peking University, Beijing, China"
+            },
+            {
+                "name": "Jiachi Chen",
+                "from": "Sun Yat-sen University, Zhuhai, China"
+            },
+            {
+                "name": "Zhiyuan Wan",
+                "from": "Zhejiang University, Hangzhou, China"
+            },
+            {
+                "name": "Ting Chen",
+                "from": "University of Electronic Science and Technology of China, Chengdu, China"
+            },
+            {
+                "name": "Jianbo Gao",
+                "from": "School of Computer Science, Peking University, Beijing, China"
+            },
+            {
+                "name": "Zhong Chen",
+                "from": "School of Computer Science, Peking University, Beijing, China"
+            }
+        ],
+        "IEEE keywords": [
+            "Surveys",
+            "Elliptic curves",
+            "Smart contracts",
+            "Cryptography",
+            "Logic",
+            "Task analysis",
+            "Usability"
+        ],
+        "Author Keywords": [
+            "Ethereum",
+            "Smart Contracts",
+            "Empirical Study",
+            "Cryptography",
+            "API Usability"
+        ]
+    },
+    {
+        "Title": "Ponziguard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG)",
+        "Pages": null,
+        "Cites in Papers": 0,
+        "Cites in Patents": 0,
+        "Full Text Views": 0,
+        "Publisher": "IEEE",
+        "DOI": "10.1145/3597503.3623318",
+        "Date of Publication": "14-20 April 2024",
+        "abstract": "Ponzi schemes, a form of scam, have been discovered in Ethereum smart contracts in recent years, causing massive financial losses. Rule-based detection approaches rely on predefined rules with limited capabilities and domain knowledge dependency. Additionally, using static information like opcodes and transactions for machine learning models fails to effectively characterize the Ponzi contracts, resulting in poor reliability and interpretability. In this paper, we propose PonziGuard, an efficient Ponzi scheme detection approach based on contract runtime behavior. Inspired by the observation that a contract's runtime behavior is more effective in disguising Ponzi contracts from the innocent contracts, Ponzi-Guard establishes a comprehensive graph representation called contract runtime behavior graph (CRBG), to accurately depict the behavior of Ponzi contracts. Furthermore, it formulates the detection process as a graph classification task, enhancing its overall effectiveness. We conducted comparative experiments on a ground-truth dataset and applied PonziGuard to Ethereum Mainnet. The results show that PonziGuard outperforms the current state-of-the-art approaches and is also effective in open environments. Using PonziGuard, we have identified 805 Ponzi contracts on Ethereum Mainnet, which have resulted in an estimated economic loss of 281,700 Ether or approximately $500 million USD.",
+        "Published in": [
+            {
+                "name": "2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)",
+                "link": "https://ieeexplore.ieee.org/xpl/conhome/10548016/proceeding"
+            }
+        ],
+        "Authors": [
+            {
+                "name": "Ruichao Liang",
+                "from": "Wuhan University, China"
+            },
+            {
+                "name": "Jing Chen",
+                "from": "Wuhan University, China"
+            },
+            {
+                "name": "Kun He",
+                "from": "Wuhan University, China"
+            },
+            {
+                "name": "Yueming Wu",
+                "from": "Nanyang Technological University, Singapore"
+            },
+            {
+                "name": "Gelei Deng",
+                "from": "Nanyang Technological University, Singapore"
+            },
+            {
+                "name": "Ruiying Du",
+                "from": "Wuhan University, China"
+            },
+            {
+                "name": "Cong Wu",
+                "from": "Nanyang Technological University, Singapore"
+            }
+        ],
+        "IEEE keywords": [
+            "Economics",
+            "Runtime",
+            "Biological system modeling",
+            "Smart contracts",
+            "Pressing",
+            "Machine learning",
+            "Reliability"
+        ],
+        "Author Keywords": [
+            "Smart Contract",
+            "Ponzi Scheme",
+            "Flow Analysis",
+            "Graph Neural Net-works"
+        ]
+    },
+    {
+        "Title": "Ethnos: An Ethereum-based Online Social Networking System with Two-Factor Authentication and Trust Score",
+        "Pages": null,
+        "Cites in Papers": 0,
+        "Cites in Patents": 0,
+        "Full Text Views": 0,
+        "Publisher": "IEEE",
+        "DOI": "10.1109/InCACCT61598.2024.10551197",
+        "Date of Publication": "02-03 May 2024",
+        "abstract": "As social media grows to entangle and remould the lives of people, so grows the concern over data privacy, censorship, server outages, and control over personal information by proprietary bodies due to their centralized design. The rise of blockchain has encouraged researchers to consider the decentralization framework for developing online social networks to resolve the challenges mentioned above. In a decentralized ecosystem, no one entity has absolute access to data and the power to enforce arbitrary decisions. The benefits of this include ownership over personal data, censorship resistance, data security, and improved control over user-generated content. In this paper, we propose the design of Ethnos, a social networking application built to harness the powers of blockchain and distributed storage technology to heighten the security and reliability of users as well as their data. In that context, suitable smart contracts have been fabricated. This paper also prospects integration of two-factor user authentication and trust score checks with Ethnos to corroborate the trustworthiness of both user and data. In addition, Ethnos incorporates a remuneration system to compensate users for their contribution to and engagement with the platform.",
+        "Published in": [
+            {
+                "name": "2024 2nd International Conference on Advancement in Computation & Computer Technologies (InCACCT)",
+                "link": "https://ieeexplore.ieee.org/xpl/conhome/10550186/proceeding"
+            }
+        ],
+        "Authors": [
+            {
+                "name": "Suranjan Saha",
+                "from": "Computer Science and Engineering, Techno International New Town, Kolkata, India"
+            },
+            {
+                "name": "Sayak Karar",
+                "from": "Computer Science and Engineering, Techno International New Town, Kolkata, India"
+            },
+            {
+                "name": "Raja Karmakar",
+                "from": "Computer Science and Engineering (IoT & CS), Heritage Institute of Technology, Kolkata, India"
+            }
+        ],
+        "IEEE keywords": [
+            "Resistance",
+            "Social networking (online)",
+            "User-generated content",
+            "Smart contracts",
+            "Authentication",
+            "Reliability engineering",
+            "Censorship"
+        ],
+        "Author Keywords": [
+            "Blockchain",
+            "Ethereum",
+            "social networking",
+            "two-factor authentication",
+            "trust score"
+        ]
+    }
+]
